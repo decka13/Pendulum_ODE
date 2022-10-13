@@ -7,7 +7,7 @@ L = 2 # Length of pendulum stick
 g = 9.8 # Gravity
 mu = .1 # Air Resistance Coeffient
 delta_t = 0.01 # Change in time
-t = 0 # Start tiime
+t = 0 # Start time
 
   
 # ODE Equation
